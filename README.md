@@ -1,6 +1,6 @@
 # NT1113-Labs
 
-Dự án này chứa các bài thực hành (labs) cho môn học NT1113, tập trung vào việc triển khai cơ sở hạ tầng mạng trên Azure bằng Terraform và kiểm thử kết nối giữa các máy ảo (VM).
+Dự án này tập trung vào việc triển khai cơ sở hạ tầng mạng trên Azure bằng Terraform và kiểm thử kết nối giữa các máy ảo (VM).
 
 ## Cấu trúc thư mục dự án
 
